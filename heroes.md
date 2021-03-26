@@ -9,3 +9,4 @@
 * Flash
 * Detective Marciano
 * Linterna verde
+* Los gemelos fantásticos
