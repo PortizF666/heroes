@@ -3,4 +3,5 @@
 1. Acabar con el plan de Lex Luthor
 2. Crear la liga de la justicia
 3. Buscar nuevos miembros de héroes
-4. Acabar con death stroke
+4. Acabar con death stroke y Joker
+5. Pedir ayuda a Flash
