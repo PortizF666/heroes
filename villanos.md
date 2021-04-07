@@ -8,3 +8,4 @@
 * Deathstroke
 * Harley Queen
 * Dessad
+* Mr Frío
