@@ -9,3 +9,4 @@
 * Harley Queen
 * Dessad
 * Mr Frío
+* Black Mantha
