@@ -10,3 +10,4 @@
 * Dessad
 * Mr Frío
 * Black Mantha
+* Flash reverse
